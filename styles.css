@@ -27,7 +27,7 @@ body {
   .about_position {
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 45px;
     line-height: 17px;
     color: #000000;
     margin-bottom: 20px;
@@ -52,7 +52,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: black;
     width: 440px;
   }
   
@@ -96,7 +96,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: black;
   }
   
   .project_link {
@@ -171,7 +171,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: black;
   }
   
   /* education style */
@@ -411,3 +411,8 @@ body {
     width: 20px;
     height: 20px;
   }
+  .highlight {
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+}
